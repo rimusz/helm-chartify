@@ -1,0 +1,6 @@
+name: "chartify"
+version: "0.1.0"
+usage: "Generate Helm Charts"
+description: |-
+  Generate Helm charts from existing Kubernetes resources
+command: "$HELM_PLUGIN_DIR/chartify"
